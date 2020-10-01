@@ -17,7 +17,7 @@ int main()
             cout<<"Cat B"<<endl;
         else if(y>x)
             cout<<"Cat A"<<endl;
-        else(x==y)
+        else
             cout<<"Mouse C"<<endl;
     }
     return 0;
