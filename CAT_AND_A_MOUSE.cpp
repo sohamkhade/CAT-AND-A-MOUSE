@@ -15,9 +15,9 @@ int main()
             x=x*(-1);
         if(x>y)
             cout<<"Cat B"<<endl;
-        if(y>x)
+        else if(y>x)
             cout<<"Cat A"<<endl;
-        if(x==y)
+        else(x==y)
             cout<<"Mouse C"<<endl;
     }
     return 0;
